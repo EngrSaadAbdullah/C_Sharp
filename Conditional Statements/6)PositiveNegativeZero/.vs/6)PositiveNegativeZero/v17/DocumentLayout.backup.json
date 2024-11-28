@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\S.S\\source\\repos\\6)PositiveNegativeZero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63DB8A-54AF-4F2F-ACDD-C31CE451D7EC}|6)PositiveNegativeZero\\6)PositiveNegativeZero.csproj|c:\\users\\s.s\\source\\repos\\6)positivenegativezero\\6)positivenegativezero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B63DB8A-54AF-4F2F-ACDD-C31CE451D7EC}|6)PositiveNegativeZero\\6)PositiveNegativeZero.csproj|solutionrelative:6)positivenegativezero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\S.S\\source\\repos\\6)PositiveNegativeZero\\6)PositiveNegativeZero\\Program.cs",
+              "RelativeDocumentMoniker": "6)PositiveNegativeZero\\Program.cs",
+              "ToolTip": "C:\\Users\\S.S\\source\\repos\\6)PositiveNegativeZero\\6)PositiveNegativeZero\\Program.cs",
+              "RelativeToolTip": "6)PositiveNegativeZero\\Program.cs",
+              "ViewState": "AgIAAA0AAADA//////8bwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:16:51.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
